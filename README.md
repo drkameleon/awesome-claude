@@ -25,5 +25,29 @@
 
 * [drkameleon/claude.ai.art](https://github.com/drkameleon/claude.ai.art)
 
+### Go
+
+* [liushuangls/go-anthropic](https://github.com/liushuangls/go-anthropic)
+* [madebywelch/anthropic-go](https://github.com/madebywelch/anthropic-go)
+
+### Haskell
+
+* [Elvecent/claude-api](https://github.com/Elvecent/claude-api)
+
+### Java
+
+* [AoElite/claude4j](https://github.com/AoElite/claude4j)
+
+### PHP
+
+* [claude-php/claude-3-api](https://github.com/claude-php/claude-3-api)
+* [namankumar80510/claude-sdk](https://github.com/namankumar80510/claude-sdk)
+
 ### Python
+
 * [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API)
+
+### Ruby
+
+* [alexrudall/anthropic](https://github.com/alexrudall/anthropic)
+* [webventures/claude-ruby](https://github.com/webventures/claude-ruby)
