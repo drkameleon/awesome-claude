@@ -31,6 +31,10 @@
 * [tghamm/Anthropic.SDK](https://github.com/tghamm/Anthropic.SDK)
 * [tryAGI/Anthropic](https://github.com/tryAGI/Anthropic)
 
+### Elixir
+
+* [lebrunel/anthropix](lebrunel/anthropix)
+
 ### Go
 
 * [ConnectAI-E/Go-Claude](https://github.com/ConnectAI-E/Go-Claude)
@@ -47,6 +51,18 @@
 
 * [AoElite/claude4j](https://github.com/AoElite/claude4j)
 
+### Julia
+
+* [JaewooJoung/Claude.jl](https://github.com/JaewooJoung/Claude.jl)
+
+### Kotlin
+
+* [xemantic/anthropic-sdk-kotlin](https://github.com/xemantic/anthropic-sdk-kotlin)
+
+### Node.js
+
+* [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api)
+
 ### PHP
 
 * [claude-php/claude-3-api](https://github.com/claude-php/claude-3-api)
@@ -54,12 +70,31 @@
 
 ### Python
 
+* [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) 🎖️ **Official**
+* [AshwinPathi/claude-api-py](https://github.com/AshwinPathi/claude-api-py)
 * [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API)
+
+### R
+
+* [yrvelez/claudeR](https://github.com/yrvelez/claudeR)
 
 ### Ruby
 
 * [alexrudall/anthropic](https://github.com/alexrudall/anthropic)
 * [webventures/claude-ruby](https://github.com/webventures/claude-ruby)
+
+### Rust
+
+* [mochi-neko/clust](https://github.com/mochi-neko/clust)
+
+### Swift
+
+* [AbdelStark/anthropic-rs](https://github.com/AbdelStark/anthropic-rs)
+* [GeorgeLyon/SwiftClaude](https://github.com/GeorgeLyon/SwiftClaude)
+
+### TypeScript
+
+* [anthropics/anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) 🎖️ **Official**
 
 ## Desktop apps
 
