@@ -15,6 +15,7 @@
 
 * [API Wrappers](#api-wrappers)
 * [Desktop apps](#desktop-apps)
+* [Multi-agent tools](#multi-agent-tools)
 
 <!--te-->
  
@@ -99,3 +100,8 @@
 ## Desktop apps
 
 * [Karenina-na/Claude-Desktop](https://github.com/Karenina-na/Claude-Desktop) - Windows
+
+## Multi-agent tools
+
+### LLM [↗️](https://github.com/simonw/llm) 
+* [simonw/llm-claude-3](https://github.com/simonw/llm-claude-3)
